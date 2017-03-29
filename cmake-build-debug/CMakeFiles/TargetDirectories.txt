@@ -1,0 +1,4 @@
+/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir
+/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir

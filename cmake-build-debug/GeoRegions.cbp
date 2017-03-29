@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GeoRegions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GeoRegions">
+				<Option output="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/GeoRegions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 GeoRegions"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GeoRegions/fast">
+				<Option output="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/GeoRegions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.3.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 GeoRegions/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/City.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/City.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/County.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/County.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/CountyUserInterface.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/CountyUserInterface.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Menu.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Menu.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/MenuOption.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/MenuOption.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Nation.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Nation.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/NationUserInterface.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/NationUserInterface.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Region.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Region.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/State.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/State.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/StateUserInterface.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/StateUserInterface.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Testing/RegionTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Testing/RegionTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Testing/UtilsTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Testing/UtilsTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Testing/testMain.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/UserInterface.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/UserInterface.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Utils.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/Utils.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/World.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/World.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/WorldUserInterface.cpp">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/WorldUserInterface.h">
+			<Option target="Test"/>
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/main.cpp">
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="/Users/arisemery/Repositories/cs1440s17-shared/GeoRegions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
